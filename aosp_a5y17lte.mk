@@ -45,4 +45,4 @@ PRODUCT_GMS_CLIENTID_BASE := android-samsung
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="a7y17lteskt-user 9 PPR1.180610.011 A720SKSU4CTF2 release-keys"
 
-BUILD_FINGERPRINT :="samsung/a7y17lteskt/a7y17lteskt:9/PPR1.180610.011/A720SKSU4CTF2:user/release-keys"
+BUILD_FINGERPRINT :="google/coral/coral:10/QQ3A.200805.001/6578210:user/release-keys"
