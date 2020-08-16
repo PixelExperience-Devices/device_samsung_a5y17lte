@@ -1,7 +1,8 @@
 [
-    {
-        "repository": "device_samsung_universal7880-common",
-        "target_path": "device/samsung/universal7880-common",
-        "branch": "ten"
-    }
+  {
+    "remote":      "github",
+    "repository":  "pixelexperience-devices/device_samsung_universal7880-common",
+    "target_path": "device/samsung/universal7880-common",
+    "branch":      "ten"
+  }
 ]
